@@ -2,8 +2,10 @@
 
 /**
  * main - Print _putchar
+ * is written by semiauto
  * Return: Always 0
  */
+
 int main(void)
 {
 	_putchar('_');
